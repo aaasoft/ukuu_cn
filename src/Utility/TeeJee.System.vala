@@ -266,7 +266,7 @@ namespace TeeJee.System{
 		
 		string std_err, std_out;
 
-		string cmd = "url='https://www.google.com' \n";
+		string cmd = "url='http://kernel.ubuntu.com' \n";
 
 		// Note: minimum of 3 seconds is required for timeout, to avoid wrong results
 		
@@ -312,7 +312,7 @@ namespace TeeJee.System{
 		
 		string std_err, std_out;
 
-		string cmd = "ping -q -w 1 -c 1 google.com\n";
+		string cmd = "ping -q -w 1 -c 1 kernel.ubuntu.com\n";
 		
 		cmd += "exit $?";
 		
