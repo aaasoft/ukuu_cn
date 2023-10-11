@@ -38,8 +38,8 @@ public Main App;
 public const string AppName = "Ubuntu Kernel Update Utility";
 public const string AppShortName = "ukuu";
 public const string AppVersion = "18.9.4";
-public const string AppAuthor = "scbeta";
-public const string AppAuthorEmail = "scbeta@qq.com";
+public const string AppAuthor = "Tony George";
+public const string AppAuthorEmail = "teejeetech@gmail.com";
 
 const string GETTEXT_PACKAGE = "";
 const string LOCALE_DIR = "/usr/share/locale";
