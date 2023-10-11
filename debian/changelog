@@ -1,3 +1,11 @@
+ukuu (18.9.4) xenial; urgency=medium
+
+  * 将检测网络用的google域名替换为kernel.ubuntu.com
+  * 增加中文支持
+
+ -- scbeta <scbeta@qq.com>  Wed, 11 Oct 2023 19:48:00 +0800
+
+
 ukuu (18.9.3) xenial; urgency=medium
 
   * Fix build issue
