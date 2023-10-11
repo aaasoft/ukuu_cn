@@ -1,5 +1,3 @@
-> A [paid version of Ukuu](https://teejeetech.in/tag/ukuu/) is now available with more features and a new UI. This repository contains source code for v18.9 and previous versions.
-
 ### Ubuntu Kernel Update Utility (Ukuu)
 
 This is a tool for installing the latest mainline Linux kernel on Ubuntu-based distributions.
