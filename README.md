@@ -24,12 +24,7 @@ _Console Options_
 ### Installation
 
 #### Ubuntu-based Distributions (Ubuntu, Linux Mint, Elementary, etc)  
-Packages are available in Launchpad PPA for supported Ubuntu releases.
-Run the following commands in a terminal window:  
-
-    sudo apt-add-repository -y ppa:teejee2008/ppa
-    sudo apt-get update
-    sudo apt-get install ukuu
+Build and run.
 
 Ukuu should not be used on older Ubuntu systems as upgrading to very new kernels can break older systems.
 
@@ -39,7 +34,7 @@ This application fetches kernels from [kernel.ubuntu.com](http://kernel.ubuntu.c
 
 
 ### Downloads & Source Code 
-Ukuu is written using Vala and GTK3 toolkit. Source code and binaries are available from the [GitHub project page](https://github.com/teejee2008/ukuu).
+Ukuu is written using Vala and GTK3 toolkit. Source code and binaries are available from the [GitHub project page](https://github.com/aaasoft/ukuu_cn).
 
 ### Build instruction
 
@@ -48,7 +43,7 @@ Ukuu is written using Vala and GTK3 toolkit. Source code and binaries are availa
  in a terminal window:  
 
     sudo apt-get install libgee-0.8-dev libjson-glib-dev libvte-2.91-dev valac
-    git clone https://github.com/teejee2008/ukuu.git
+    git clone https://github.com/aaasoft/ukuu_cn.git
     cd ukuu
     make all
     sudo make install
